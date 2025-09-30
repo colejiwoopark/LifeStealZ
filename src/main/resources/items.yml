@@ -45,16 +45,16 @@ defaultheart: # <- This is the item id that can be used in recipes and for permi
       # If you want to use block or item tags, use the tag with a '#' in front (e.g. "#logs" or "#wool")
       rowOne:
         - "GOLD_BLOCK"
-        - "GOLD_BLOCK"
+        - "DIAMOND"
         - "GOLD_BLOCK"
       rowTwo:
-        - "OBSIDIAN"
-        - "NETHER_STAR"
-        - "OBSIDIAN"
+        - "DIAMOND_BLOCK"
+        - "NETHERITE_INGOT"
+        - "DIAMOND_BLOCK"
       rowThree:
-        - "DIAMOND_BLOCK"
-        - "DIAMOND_BLOCK"
-        - "DIAMOND_BLOCK"
+        - "OBSIDIAN"
+        - "OBSIDIAN"
+        - "OBSIDIAN"
   # If the item should be burnable (Not destroyed by fire, lava, explosions, cactus, etc.)
   invulnerable: false
   # If the item should despawn after laying on the ground for 5 minutes
